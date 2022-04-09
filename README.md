@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @marklesterbas
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.</h1>
 
-<!---
-marklesterbas/marklesterbas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Im **Mark Lester Bas** also known as **marklesterbas**, and I'm a **top GitHub committer** with 8 years of expertise in **Security and Web development**. I'd want to educate new programmers how to understand their route and design a suitable roadmap so that they may become IT professionals. My main objective is to enable young programmers in the Philippines have access to inexpensive learning materials.<br><br>
+<a href="https://www.youtube.com/marklesterbas"><img src="https://camo.githubusercontent.com/d79c5549652f9c7690992eb49571d216a70a480681561cbd93bfbfc77c491e54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d4646303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465"></a><img src="https://camo.githubusercontent.com/5e382e07cfb68ece51be2fb7028b3fea88ef6dba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564696e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f65756775737461766f736f757a612f"><img><br><br>
+<a href="https://www.youtube.com/marklesterbas"><img src="https://camo.githubusercontent.com/d79c5549652f9c7690992eb49571d216a70a480681561cbd93bfbfc77c491e54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d4646303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465"></a><img><br><br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Mark+Lester+Bas%C3%B1as%2C+29+years+old;Front-end+Web+Developer;Cyber+Security+Specialist)](https://git.io/typing-svg)
+
+[![](https://img.shields.io/badge/Gmail-marklesterbas@gmail.com-red)](mailto:baslester347@gmail.com) [![]
